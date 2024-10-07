@@ -12,11 +12,7 @@
 <br>
 
 <table>
-<td>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&layout=donut&theme=dark)
-
-</td>
 </table>
 
 ### Love to code
