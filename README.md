@@ -44,13 +44,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif030609" alt="asif030609" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-asif-ullah-598423330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-asif-ullah-598423330/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdasif.ullah.560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdasif.ullah.560" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dartriderasif/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dartriderasif/?next=%2f" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/uxdesignerasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/uxdesignerasif" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif030609&show_icons=true&locale=en&layout=compact" alt="asif030609" /></p>
 
