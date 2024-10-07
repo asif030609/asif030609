@@ -42,7 +42,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif030609&label=Profile%20views&color=0e75b6&style=flat" alt="asif030609" /> </p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)">
+<p 
 <img src="https://github-profile-trophy.vercel.app/?username=asif030609" alt="asif030609" /></a> 
 </p>
 
