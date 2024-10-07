@@ -51,28 +51,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 <img src="https://github-profile-trophy.vercel.app/?username=asif030609" alt="asif030609" /></a> 
 </p>
 
-
-<div class="table-container">
-  <style>
-    .table-container {
-      display: flex;
-      justify-content: center; /* Centers the table horizontally */
-    }
-    table {
-      border-collapse: collapse; /* Removes space between cells */
-    }
-    td {
-      padding: 20px; /* Adds padding for spacing */
-      vertical-align: middle; /* Centers content vertically */
-      height: 300px; /* Fixed height for even spacing */
-    }
-    img {
-      max-width: 100%; /* Ensures images fit within the cell */
-      height: auto; /* Maintains aspect ratio */
-    }
-  </style>
-  
-  <table>
+ <table>
     <tbody>
       <tr>
         <td>
