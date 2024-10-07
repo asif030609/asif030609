@@ -11,7 +11,7 @@
 </div>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)
 ### Love to code
 
 <div style="display:flex">
