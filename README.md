@@ -52,18 +52,39 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 </p>
 
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif030609&layout=donut&theme=dark" alt="Top Languages">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=asif030609&layout=donut&theme=dark" alt="GitHub Stats">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="table-container">
+  <style>
+    .table-container {
+      display: flex;
+      justify-content: center; /* Centers the table horizontally */
+    }
+    table {
+      border-collapse: collapse; /* Removes space between cells */
+    }
+    td {
+      padding: 20px; /* Adds padding for spacing */
+      vertical-align: middle; /* Centers content vertically */
+      height: 300px; /* Fixed height for even spacing */
+    }
+    img {
+      max-width: 100%; /* Ensures images fit within the cell */
+      height: auto; /* Maintains aspect ratio */
+    }
+  </style>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif030609&layout=donut&theme=dark" alt="Top Languages">
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=asif030609&layout=donut&theme=dark" alt="GitHub Stats">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
