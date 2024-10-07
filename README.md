@@ -64,7 +64,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asif030609&show_icons=true&locale=en&layout=donut&theme=dark)
+![GitHub stats]()
 
 </td>
 </tr>
