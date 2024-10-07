@@ -10,8 +10,19 @@
   <a href="https://www.instagram.com/dartriderasif/?next=%2F"><img src="assets/INSTAGRAM.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
+<table>
+<tbody>
+
+<tr>
+<td>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&layout=donut&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
 ### Love to code
 
 <div style="display:flex">
@@ -68,20 +79,6 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 </tbody>
 </table>
 
-
-<table>
-<tbody>
-
-<tr>
-<td>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&layout=donut&theme=dark)
-
-</td>
-</tr>
-
-</tbody>
-</table>
 
 
 
