@@ -50,8 +50,6 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=asif030609&show_icons=true&theme=dark" alt="asif030609" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif030609&show_icons=true&locale=en" alt="asif030609" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif030609&" alt="asif030609" /></p>
 
 <table>
