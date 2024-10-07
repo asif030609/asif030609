@@ -6,6 +6,7 @@
 
 <div style="display:flex">
   <a href="https://www.linkedin.com/in/md-asif-ullah-598423330/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.facebook.com/mdasif.ullah.560"> <img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.instagram.com/dartriderasif/?next=%2F"><img src="assets/INSTAGRAM.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
