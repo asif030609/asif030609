@@ -10,14 +10,15 @@
   <a href="https://www.instagram.com/dartriderasif/?next=%2F"><img src="assets/INSTAGRAM.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
+
 <table>
 <td>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&layout=donut&theme=dark)
 
 </td>
-
 </table>
+
 ### Love to code
 
 <div style="display:flex">
