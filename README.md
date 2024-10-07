@@ -46,7 +46,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif030609&show_icons=true&locale=en&layout=compact" alt="asif030609" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark" alt="asif030609" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif030609&show_icons=true&locale=en" alt="asif030609" /></p>
 
