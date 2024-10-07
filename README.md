@@ -19,7 +19,7 @@
   <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
-  img alt="" height="60px" width="60px"   src="assets/tech/Python.svg"/>
+  img alt="" height="60px" width="60px"   src="assets/tech/python-3.svg"/>
 </div>
 
 ### Favourite Tools
