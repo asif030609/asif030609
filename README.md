@@ -15,11 +15,11 @@
 ### Love to code
 
 <div style="display:flex">
-  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
-  img alt="" height="60px" width="60px"   src="assets/tech/python-3.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/Dart.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/Flutter.svg"/>
+  img alt="" height="60px" width="60px"   src="assets/python-3.svg"/>
 </div>
 
 ### Favourite Tools
