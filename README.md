@@ -46,11 +46,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 <img src="https://github-profile-trophy.vercel.app/?username=asif030609" alt="asif030609" /></a> 
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=asif030609&show_icons=true&theme=dark" alt="asif030609" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif030609&" alt="asif030609" /></p>
 
 <table>
 <tbody>
