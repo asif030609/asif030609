@@ -52,20 +52,17 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 </p>
 
 
-
 <table>
-<tbody>
-
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif030609&layout=donut&theme=dark)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asif030609&layout=donut&theme=dark)
-
-
-</tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif030609&layout=donut&theme=dark" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=asif030609&layout=donut&theme=dark" alt="GitHub Stats">
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
