@@ -60,7 +60,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <td>
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asif030609&layout=donut&theme=dark_width=600)
 
 </td>
 </tr>
