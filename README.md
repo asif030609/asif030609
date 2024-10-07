@@ -25,9 +25,9 @@
 ### Favourite Tools
 
 <div style="display:flex">
-<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
-<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+<img alt="" height="60px" width="60px"  src="assets/VisualStudio.svg"/>
+<img alt="" height="60px" width="60px"  src="assets/AndroidStudio.svg"/>
+<img alt="" height="60px" width="60px"  src="assets/Git.svg"/>
 </div>
 
 ### About
