@@ -11,7 +11,6 @@
 </div>
 <br>
 <table>
-<tbody>
 
 <tr>
 <td>
@@ -21,7 +20,6 @@
 </td>
 </tr>
 
-</tbody>
 </table>
 ### Love to code
 
