@@ -20,11 +20,11 @@
 ### Love to code
 
 <div style="display:flex">
-  <img alt="" height="60px" width="60px"   src="assets/MongoDB.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/MySQL.svg"/>
-  <img alt="" height="60px" width="60px"   src="assets/Dart.svg"/>
+   <img alt="" height="60px" width="60px"   src="assets/Dart.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/Flutter.svg"/>
   <img alt="" height="53px" width="53px"   src="assets/Python.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/MySQL.svg"/> 
 </div>
 
 ### Favourite Tools
